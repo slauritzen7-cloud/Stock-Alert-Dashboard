@@ -101,5 +101,6 @@ def create_price_chart(stock_data):
         
         # Update layout
         fig.update_layout(
-            title=f"{stock_data['symbol']} - {stock_data['company_name
-
+            title=f"{stock_data['symbol']} - {stock_data['company_name']}",
+            xaxis_title="Date",
+            yaxis
