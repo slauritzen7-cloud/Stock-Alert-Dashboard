@@ -104,3 +104,4 @@ def create_price_chart(stock_data):
             title=f"{stock_data['symbol']} - {stock_data['company_name']}",
             xaxis_title="Date",
             yaxis
+
