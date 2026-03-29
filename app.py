@@ -85,4 +85,4 @@ def create_price_chart(stock_data):
             x=stock_data['history'].index,
             y=stock_data['history']['Close'],
             mode='lines+markers',
-            name=f"{stock_
+            name=f"{stock_}
