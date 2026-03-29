@@ -105,6 +105,6 @@ def create_price_chart(stock_data):
             xaxis_title="Date",
             yaxis_title="Price",
             plot_bgcolor='rgba(0,0,0,0)',
-            
+        )
 
 
